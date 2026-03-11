@@ -1,0 +1,4 @@
+res://scenes/test/idle.gd
+res://scenes/characters/player/player.tscn
+res://scenes/test/new_tile_set.tres
+res://scenes/characters/player/walkState.gd
