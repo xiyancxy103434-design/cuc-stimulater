@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dstb6uept4mq4"]
+
+[node name="Node2D" type="Node2D" unique_id=1902885160]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1076038631]
+
+[node name="Button" type="Button" parent="CanvasLayer" unique_id=1333230957]
+offset_left = 344.0
+offset_top = 201.0
+offset_right = 480.0
+offset_bottom = 304.0

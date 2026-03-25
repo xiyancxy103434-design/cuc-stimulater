@@ -1,5 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
+<<<<<<< Updated upstream
 ::res://::1774397570
+=======
+::res://::1774434142
+>>>>>>> Stashed changes
 icon.svg::CompressedTexture2D::4427199777793710577::1773241075::1774397570::1::::<><><>0<>0<>cbf4767e6714c330681ebc884ecd95a4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1773241075::0::1::::<><><>0<>0<><>::
 ::res://assets/::1773241075
@@ -51,10 +55,18 @@ Wooden_House_Walls_Tilset.png::CompressedTexture2D::5118289204858915180::1773241
 ::res://scenes/characters/player/::1773241075
 player.tscn::PackedScene::5351077159845297185::1773241075::0::1::::<><><>0<>0<><>::uid://bqneyvo8602tk::::res://assets/Characters/Basic Charakter Spritesheet.png<>uid://dqdmd8j1sg54m::::res://scripts/state machine/node_state_machine.gd<>uid://i2gdx1w62w5k::::res://scenes/test/idle.gd<>uid://bpdq7co6x1nly::::res://scenes/characters/player/walkState.gd
 walkState.gd::GDScript::3446475216929219554::1773241075::0::1::::<>NodeState<><>0<>0<><>::
+<<<<<<< Updated upstream
 ::res://scenes/test/::1773241075
 default.tscn::PackedScene::6276552301764556858::1773241075::0::1::::<><><>0<>0<><>::uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png<>uid://dmd6pc8fbfgje::::res://scenes/test/new_tile_set.tres
 idle.gd::GDScript::617619857046248038::1773241075::0::1::::<>NodeState<><>0<>0<><>::
 new_tile_set.tres::TileSet::8009630477936168166::1773241075::0::1::::<><><>0<>0<><>::uid://c0lb5dq4urdb5::::res://assets/Tilesets/Grass.png<>uid://03toadoxngo4::::res://assets/Objects/Basic Grass Biom things 1.png<>uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png
+=======
+::res://scenes/test/::1774400407
+control.tscn::PackedScene::6643283546754104330::1774400407::0::1::::<><><>0<>0<><>::
+default.tscn::PackedScene::6276552301764556858::1773241075::0::1::::<><><>0<>0<><>::uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png<>uid://dmd6pc8fbfgje::::res://scenes/test/new_tile_set.tres
+idle.gd::GDScript::617619857046248038::1773241075::0::1::::<>NodeState<><>0<>0<><>::
+new_tile_set.tres::TileSet::8009630477936168166::1774400407::0::1::::<><><>0<>0<><>::uid://c0lb5dq4urdb5::::res://assets/Tilesets/Grass.png<>uid://03toadoxngo4::::res://assets/Objects/Basic Grass Biom things 1.png<>uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png
+>>>>>>> Stashed changes
 player.tscn::PackedScene::5578834065666817855::1773241075::0::1::::<><><>0<>0<><>::uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png<>uid://dmd6pc8fbfgje::::res://scenes/test/new_tile_set.tres<>uid://ciidpuvlu2kfx::::res://scenes/characters/player/player.tscn<>uid://dqdmd8j1sg54m::::res://scripts/state machine/node_state_machine.gd<>uid://i2gdx1w62w5k::::res://scenes/test/idle.gd
 瓦片测试.tscn::PackedScene::6772395796124973671::1773241075::0::1::::<><><>0<>0<><>::uid://bvsa1rsb8r80k::::res://assets/Tilesets/Water.png<>uid://dmd6pc8fbfgje::::res://scenes/test/new_tile_set.tres
 ::res://scripts/::1773241075
