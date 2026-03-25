@@ -16,3 +16,11 @@ offset_top = 157.0
 offset_right = 422.0
 offset_bottom = 262.0
 text = "1"
+
+[node name="Button" type="Button" parent="." unique_id=1031706750]
+layout_mode = 0
+offset_left = 526.0
+offset_top = 161.0
+offset_right = 640.0
+offset_bottom = 265.0
+text = "2"
